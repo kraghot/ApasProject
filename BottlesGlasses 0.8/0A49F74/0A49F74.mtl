@@ -1,0 +1,8 @@
+newmtl SETTIMG_SEG_0x0
+map_Ka 0x0.png
+newmtl SETTIMG_SEG_0x1000
+map_Ka 0x1000.png
+newmtl SETTIMG_SEG_0x2000
+map_Ka 0x2000.png
+newmtl SETTIMG_SEG_0x3000
+map_Ka 0x3000.png
