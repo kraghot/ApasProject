@@ -4,5 +4,7 @@ Config/
 Content/
 Intermediate/
 Saved/
-SharedMemory*
+SharedMemoryTest.sdf
+SharedMemoryTest.sln
+SharedMemoryTest.uproject
 
