@@ -1,0 +1,8 @@
+Binaries/
+Build/
+Config/
+Content/
+Intermediate/
+Saved/
+SharedMemory*
+
